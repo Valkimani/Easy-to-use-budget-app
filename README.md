@@ -6,7 +6,9 @@ This is an example of a Progressive Web Application with detailed steps to make 
 
 
 ## Screen shots
+![Transactions](/public/images/Transactions.png)
 ![BudgetApplication](/public/images/BudgetApplication.png)
+
 
 ## Links 
 
