@@ -1,8 +1,14 @@
 # Easy-to-use-budget-app
 
-This is an example of a Progressive Web Application with detailed steps to make it fully functional. It will not be publicly available after Tuesday, April 28, 2020.
+This is an example of a Progressive Web Application with detailed steps to make it fully functional.
 
 ## Functionality
+The app is Progressive because it can be used offline which ensures better visibility and no need for an app store.
+
+## Tools
+Manifest: Communicates with the browser about the app and how it should behave when installed on a desktop.
+Service-worker: Scripts running in the background.
+Cache API: Provides the offline experience.
 
 
 ## Screen shots
@@ -13,7 +19,7 @@ This is an example of a Progressive Web Application with detailed steps to make 
 ## Links 
 
 [Git hub](https://github.com/Valkimani/Easy-to-use-budget-app)
-[Deployed]()
+[Deployed](https://mighty-wave-63885.herokuapp.com/)
 
 ## License
 MIT License
