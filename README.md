@@ -1,6 +1,6 @@
 # Easy-to-use-budget-app
 
-This is an example Progressive Web Application with detailed steps to make it fully functional. It will not be publicly available after Tuesday, April 28, 2020.
+This is an example of a Progressive Web Application with detailed steps to make it fully functional. It will not be publicly available after Tuesday, April 28, 2020.
 
 ## Functionality
 
@@ -22,3 +22,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # CREDITS
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
