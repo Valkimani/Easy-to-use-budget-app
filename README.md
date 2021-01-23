@@ -1,11 +1,8 @@
 # Easy-to-use-budget-app
 
-This is an example of a Progressive Web Application with detailed steps to make it fully functional.
+This is an example of a Progressive Web Application. The app is Progressive because it can be used offline which ensures better visibility and no need for an app store.
 
-## Functionality
-The app is Progressive because it can be used offline which ensures better visibility and no need for an app store.
-
-## Tools
+## Tools and functionality
 Manifest: Communicates with the browser about the app and how it should behave when installed on a desktop.
 Service-worker: Scripts running in the background.
 Cache API: Provides the offline experience.
